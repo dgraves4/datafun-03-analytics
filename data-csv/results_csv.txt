@@ -1,0 +1,86 @@
+Number of Customers per Country:
+Chile: 1
+Djibouti: 1
+Antigua and Barbuda: 1
+Dominican Republic: 2
+Slovakia (Slovak Republic): 1
+Bosnia and Herzegovina: 1
+Pitcairn Islands: 1
+Bulgaria: 2
+Cyprus: 1
+Timor-Leste: 1
+Guernsey: 1
+Vietnam: 1
+Togo: 2
+Sri Lanka: 2
+Singapore: 1
+Oman: 2
+Western Sahara: 1
+Mozambique: 1
+South Georgia and the South Sandwich Islands: 2
+French Polynesia: 1
+Malta: 1
+Netherlands: 2
+Paraguay: 1
+Lao People's Democratic Republic: 1
+Albania: 1
+Panama: 1
+Belarus: 2
+Switzerland: 1
+Saint Vincent and the Grenadines: 2
+Tanzania: 1
+Zimbabwe: 2
+Denmark: 1
+Liechtenstein: 1
+United States of America: 1
+Bahamas: 1
+Belize: 1
+Uruguay: 1
+Solomon Islands: 4
+Montenegro: 1
+Poland: 1
+Burkina Faso: 1
+Bolivia: 1
+Monaco: 1
+Palau: 1
+Uzbekistan: 1
+Ghana: 1
+United Arab Emirates: 2
+Canada: 2
+Algeria: 1
+Swaziland: 1
+Madagascar: 1
+Ecuador: 1
+Palestinian Territory: 1
+Saint Barthelemy: 1
+Sao Tome and Principe: 1
+Portugal: 1
+Ethiopia: 1
+Liberia: 1
+Lithuania: 1
+New Caledonia: 1
+Kiribati: 1
+French Southern Territories: 1
+Iran: 1
+Morocco: 1
+Russian Federation: 1
+United States Virgin Islands: 1
+Kyrgyz Republic: 1
+Myanmar: 1
+Dominica: 1
+Iceland: 1
+Micronesia: 1
+Isle of Man: 1
+Fiji: 1
+New Zealand: 1
+Maldives: 1
+Benin: 1
+Yemen: 1
+Namibia: 1
+Bhutan: 1
+Hungary: 1
+Anguilla: 1
+Mali: 1
+Guyana: 1
+Aruba: 1
+Honduras: 1
